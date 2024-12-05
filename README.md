@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+![Screenshot 2024-12-05 103328](https://github.com/user-attachments/assets/be93ccb0-7fde-46c2-b031-11b8c46bfc6e)# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 02.12.24
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot 2024-12-05 103328](https://github.com/user-attachments/assets/49799ff7-b19f-4c4c-b19c-1869e02560e3)
 
-### Name:
-### Register Number:
+### Name: W Allen Johnston Ozario
+### Register Number: 24900645
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
